@@ -1,0 +1,17 @@
+.input-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1em;
+  }
+  
+.input-grid h3 {
+  margin-bottom: 0.5em;
+}
+
+.input-grid input {
+    border: 1px solid #646cff;
+    border-radius: 4px;
+    padding: 0.6em 1.2em;
+    background-color: #1a1a1a43;
+}
